@@ -1,3 +1,4 @@
+/*count frequency  of each element input ex: 2,3,4,2,2,2 output is 2=3,3=2,4=1*/
 package Demo;
 
 public class Count {
