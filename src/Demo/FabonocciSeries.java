@@ -44,5 +44,4 @@ public class FabonocciSeries {
 		System.out.println(fibonacciSearch(arr, target));
 	}
 
-
 }
