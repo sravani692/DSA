@@ -25,7 +25,7 @@ public class UpperBound {
 		
 		int target = 50;
 		
-		int index = uppersBound(arr, target);
+		int index = upperBound(arr, target);
 		
 		System.out.println("Upper Bound: " + index);
 	}
