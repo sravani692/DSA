@@ -1,6 +1,4 @@
 package Demo;
-
-
 public class RecoverBSTree {
 
     static class TreeNode {
