@@ -5,7 +5,7 @@ public class RecoverBSTree {
 
     static class TreeNode {
         int val;
-        TreeNode left;l
+        TreeNode left;
         TreeNode right;
 
         TreeNode(int val) {

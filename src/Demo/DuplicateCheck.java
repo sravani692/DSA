@@ -1,6 +1,6 @@
 package Demo;
 
-import java.util.*;
+import java.util.HashSet;
 
 public class DuplicateCheck {
 	
